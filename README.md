@@ -1,4 +1,5 @@
 ### Hi there 👋
+#### I am Rafsan Quayes. I love building apps, and learning about new technologies.
 
 <!--
 **RafsanQ/RafsanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
