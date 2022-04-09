@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 #### I am Rafsan Quayes. I love building apps, and learning about new technologies.
 
 <!--
