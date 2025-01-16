@@ -1,17 +1,32 @@
-### Hi there
-#### I am a 4th year university student studying Software Engineering.
+### Hi there, I'm RafsanQ 👋
 
-<!--
-**RafsanQ/RafsanQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with a love for learning and building innovative solutions. Here you'll find a collection of my projects, contributions, and interests.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 I’m currently working at a startup called [Bindulogic](https://bindulogic.com/)
+- 🌱 I'm currently learning Golang to automate repetitive and mundane tasks.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- Programming Languages: Java, Python, Typscript, C/C++, Golang
+- Frameworks: React, Vue, Express, Swing, Gin, Fibre
+- Databases: MySQL, PostgreSQL, MongoDB
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafsanQ&layout=compact&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rafsan-quayes-79a8581b6/)
+- [Email](mailto:rafsan.quayes@gmail.com)
+
+---
+
+Feel free to explore my repositories and get in touch if you'd like to collaborate or something.
+
