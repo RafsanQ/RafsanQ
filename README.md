@@ -25,5 +25,5 @@
 
 ---
 
-Feel free to explore my repositories and get in touch if you'd like to collaborate or something.
+Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
