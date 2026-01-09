@@ -1,13 +1,12 @@
-### Hi there, I'm RafsanQ 👋
+### Hi there, I'm Rafsan 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for learning and building innovative solutions. Here you'll find a collection of my projects, contributions, and interests.
-
+Full Stack Software Engineer specializing in scalable microservices and real-time web architectures.
 ---
 
 ### 🚀 About Me
 
--  I’m currently working at a startup called [Bindulogic](https://bindulogic.com/)
--  Building high-performance services and real-time applications with Go.
+-  🔭 Currently working at: [Bindulogic](https://bindulogic.com/) building healthcare integration platforms.
+-  🛠️ Focus: System Design, web-development, High-Availability Data Pipelines, and AI Integration.
 
 ---
 
