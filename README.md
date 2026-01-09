@@ -1,7 +1,7 @@
 ### Hi there, I'm Rafsan 👋
 
-Full Stack Software Engineer specializing in scalable microservices and real-time web architectures.
 ---
+**Full Stack Software Engineer** specializing in scalable microservices and real-time web architectures.
 
 ### 🚀 About Me
 
