@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for learnin
 
 ### 🚀 About Me
 
-- 💻 I’m currently working at a startup called [Bindulogic](https://bindulogic.com/)
-- 🌱 Building high-performance services and real-time applications with Go.
+-  I’m currently working at a startup called [Bindulogic](https://bindulogic.com/)
+-  Building high-performance services and real-time applications with Go.
 
 ---
 
